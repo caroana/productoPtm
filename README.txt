@@ -1,0 +1,4 @@
+-Instalar MySql si no esta instalado localmente
+-Crear la base de datos crud_app; si tiene una interfaz gráfica puede ser desde esta;simplemente desde la opción crear nueva base de datos y darle el nombre de crud_app o con el comando CREATE DATABASE crud_app
+-Instalar la última versión de node js o la versión v20.5.0
+-Instalar la última versión del JDK o la versión 20.0.2 y configurar las variables de entorno 
